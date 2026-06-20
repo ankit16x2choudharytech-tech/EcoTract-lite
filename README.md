@@ -641,28 +641,18 @@ See [GOOGLE_LOGIN_SETUP.md](./GOOGLE_LOGIN_SETUP.md#-troubleshooting) for more t
 
 ## 👥 Demo Data
 
-To populate demo users and activity logs, call:
-
-```bash
-curl -X POST http://localhost:3000/api/seed
-```
-| `demo2@ecotrack.app` | `demo1234` | Priya Nair |
-| `demo3@ecotrack.app` | `demo1234` | Rohan Mehta |
-| `demo4@ecotrack.app` | `demo1234` | Sara Khan |
-| `demo5@ecotrack.app` | `demo1234` | Dev Patel |
-| `demo6@ecotrack.app` | `demo1234` | Isha Verma |
-
+ 
 ### Admin Account
 
 | Email | Password | Description |
 |-------|----------|-------------|
-| `admin@ecotrack.app` | `admin1234` | Full admin access |
+| `ankit16x2techbusiness@gmail.com"
+` | `12345678` | Full admin access |
 
 ### Google Login
 
 Use the "Continue with Google" button on the auth page. Two demo Google accounts are pre-loaded:
-- **Ankit Sharma** (ankit.sharma@gmail.com)
-- **Priya Nair** (priya.nair@gmail.com)
+ 
 
 You can also "Use another account" to sign in with any custom Google-style email.
 
